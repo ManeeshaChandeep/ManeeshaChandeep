@@ -1,6 +1,8 @@
 ### Hi  👋 My name is Maneesha Chandeep
 ------------------------------------------------
 ###            I'm a developer from Sri Lanka
+
+🌱 I’m currently learning at ijse
 <!--
 **ManeeshaChandeep/ManeeshaChandeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
