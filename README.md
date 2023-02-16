@@ -3,7 +3,10 @@
 ###            I'm a developer from Sri Lanka
 
 🌱 I’m currently learning Computer Science and Software Engineering.
-🌱 I’m currently learning at ijse
+
+🌱 I’m currently learning at ijse.
+
+📫 How to reach me maneeshachandeep@gmail.com
 <!--
 **ManeeshaChandeep/ManeeshaChandeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
