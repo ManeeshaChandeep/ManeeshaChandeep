@@ -1,5 +1,5 @@
-### Hi  👋
-
+### Hi  👋 My name is Maneesha Chandeep
+------------------------------------------------
 <!--
 **ManeeshaChandeep/ManeeshaChandeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
